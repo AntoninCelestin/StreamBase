@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  MessageWrapper.cpp
+e:\streambase\streambase\utils\Streamer.h(6): fatal error C1083: Cannot open include file: 'boost/archive/tmpdir.hpp': No such file or directory

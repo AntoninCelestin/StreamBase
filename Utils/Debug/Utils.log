@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  MessageWrapper.cpp
+e:\streambase\streambase\utils\messagewrapper.cpp(84): warning C4244: 'argument': conversion from 'WCHAR' to 'const char', possible loss of data
+e:\streambase\streambase\utils\messagewrapper.cpp(122): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+  Utils.vcxproj -> E:\StreamBase\StreamBase\Debug\Utils.lib
